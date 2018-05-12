@@ -1,0 +1,35 @@
+_repo: Elegia-da-solid-o_22907
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pascoais, Teixeira de
+    aliases:
+    - Pascoaes, Teixeira de
+    - Vasconcelos, Joaquim Pereira Teixeira de
+    - Vasconcellos, Joaquim Pereira Teixeira de
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '25460'
+    url: http://www.gutenberg.org/2009/agents/25460
+    wikipedia: http://pt.wikipedia.org/wiki/Teixeira_de_Pascoaes
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22907'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Amarante:\r\nTip. «Flor do Tamega»\r\n1920"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Elegia da solidão
+url: http://www.gutenberg.org/ebooks/22907
